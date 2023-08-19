@@ -1,10 +1,6 @@
-## Project setup
-We can do this project locally on our machine or in the cloud using the pre-installed environment on VS code. Vs code is a great option if you're on a mobile phone,
-or just want to get started without installing anything. We use remix here.
+# SmartContract DApp
 
-## ## Description
-For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
-
+This project is a decentralized application (DApp) that interacts with the Smart contract. The DApp allows you to view the owner's name and balance, as well as mint and burn ethers to the contract owner.
 
 ### Executing program
 
